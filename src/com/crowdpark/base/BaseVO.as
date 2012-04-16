@@ -1,6 +1,6 @@
-package com.crowdpark.core.base
+package com.crowdpark.base
 {
-	import com.crowdpark.core.interfaces.InterfaceVO;
+	import com.crowdpark.interfaces.InterfaceVO;
 
 	/**
 	 * @author antonstepanov
