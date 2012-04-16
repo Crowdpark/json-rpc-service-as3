@@ -15,7 +15,7 @@ package com.crowdpark.base
 
 		public function BaseDataEvent(type : String, bubbles : Boolean = false, cancelable : Boolean = false)
 		{
-			super(type);
+			super(type, bubbles, cancelable);
 		}
 
 		// ::::::::::::::::::::::::::::::::::::::::::::::::::::::
